@@ -1,0 +1,319 @@
+canonical_identifier: bkk:krp/KR6j0696/v1
+canonical_location: https://kanripo.org/bkk/KR6j0696/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楞嚴經證疏廣解
+  identifiers:
+    alt_id:
+    - X14n0288
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X14/X14n0288.xml
+    old_id: X14n0288
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 1, filename: KR6j0696_001.yaml, hash: 'sha256:1e22ef562b9426fb503e9e84c383b8b30ef3934dacb0a6c41b1dff9bca205c5d'}
+  - {seq: 2, filename: KR6j0696_002.yaml, hash: 'sha256:f6d843f64d3c32b6384673b24a0ef5dd56f66424c0534350227ae7b5450c5327'}
+  - {seq: 3, filename: KR6j0696_003.yaml, hash: 'sha256:c3fd238517aa7b0a55966295b1692200b224d89b431a7026b49bd73208bbbe21'}
+  - {seq: 4, filename: KR6j0696_004.yaml, hash: 'sha256:d0b7c04c5f5fa17abaf4915618772f59a6ca305c77de657dd6b50dcf8e6c63dd'}
+  - {seq: 5, filename: KR6j0696_005.yaml, hash: 'sha256:d9d9a9fe272dfab80852fa51a84c26a5ab75a1d5d138fa18bcffbfb64568e01e'}
+  - {seq: 6, filename: KR6j0696_006.yaml, hash: 'sha256:cfc755f29b8987a2398c412d2809817bd9cc0bd4d6ea2024053601f6f40ef134'}
+  - {seq: 7, filename: KR6j0696_007.yaml, hash: 'sha256:46caa3dc6db4726f9b9fc174ce05c561225cd5bcb6c8d1d0a372c83d66e3fb60'}
+  - {seq: 8, filename: KR6j0696_008.yaml, hash: 'sha256:d79067c8a36beccafd5a78e032168875531cfb59876ac6522c348a4af5e44193'}
+  - {seq: 9, filename: KR6j0696_009.yaml, hash: 'sha256:54f5de2c515cfa935423dd297862e8c6b57d7646bfef1e85723224a9870f5d3a'}
+  - {seq: 10, filename: KR6j0696_010.yaml, hash: 'sha256:dc8e366318c710c1e2dd4efcfdef76e5c362c330806a8aa293067342befb1cb3'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0696_001.markers.yaml, hash: 'sha256:2690f89c49dfe5bf715695f7170e3035a9864156568f0e26a417af88442ca621'}
+  - {seq: 2, role: markers, filename: assets/KR6j0696_002.markers.yaml, hash: 'sha256:1b30774c14b7cfce01b90797052a33ac26a97a06c6c461169898f726e752fff2'}
+  - {seq: 3, role: markers, filename: assets/KR6j0696_003.markers.yaml, hash: 'sha256:264b3a09fd621c28656d0dd531f9a349977527458c060b55fc1ca880a9c3b763'}
+  - {seq: 4, role: markers, filename: assets/KR6j0696_004.markers.yaml, hash: 'sha256:fcbc53a9f03a6c7b2503abaf3ab25972fdf58e53104ab669a5df6b358b65904b'}
+  - {seq: 5, role: markers, filename: assets/KR6j0696_005.markers.yaml, hash: 'sha256:a9c5324519b1b87916fdcc0574c77dd4d1e40c5758a3ef6b1766c57c93a7d75d'}
+  - {seq: 6, role: markers, filename: assets/KR6j0696_006.markers.yaml, hash: 'sha256:981774156825ba36a046cb63d7af11fba3fe8d6de025cf7f2415c28460841d10'}
+  - {seq: 7, role: markers, filename: assets/KR6j0696_007.markers.yaml, hash: 'sha256:e16bfd8cf62fb4ad20919769d1b9b6a8d951d9ef9e8cda6492074600551384c1'}
+  - {seq: 8, role: markers, filename: assets/KR6j0696_008.markers.yaml, hash: 'sha256:962b6d9e7d15b152a8100953721eedef18ce092fe28a29c4b2f21dfb8ba200fc'}
+  - {seq: 9, role: markers, filename: assets/KR6j0696_009.markers.yaml, hash: 'sha256:525222401bb6a9edbe4b46a4886a45d9873b0370b0840a03de6568e38c11d639'}
+  - {seq: 10, role: markers, filename: assets/KR6j0696_010.markers.yaml, hash: 'sha256:ffdddca679aa9c6160bf937533abaa75571e334cf89423ff695745041bc78a76'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0696_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 14680
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0696_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: No. 288-A 鋟楞嚴緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0696_X_001-mulu-2
+    span:
+    - body
+    - 533
+    - 533
+  label: No. 288-B 刻楞嚴經標指序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0696_X_001-mulu-3
+    span:
+    - body
+    - 1279
+    - 1279
+  label: No. 288-C 楞嚴摸象記引
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0696_X_001-mulu-4
+    span:
+    - body
+    - 1687
+    - 1687
+  label: 姓氏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0696_X_001-mulu-5
+    span:
+    - body
+    - 1951
+    - 1951
+  label: No. 288-D 科經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0696_X_001-mulu-6
+    span:
+    - body
+    - 2208
+    - 2208
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0696_X_001-mulu-7
+    span:
+    - body
+    - 2436
+    - 2436
+  label: 讚語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0696_X_001-mulu-8
+    span:
+    - body
+    - 2551
+    - 2551
+  label: 釋經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0696_X_001-mulu-9
+    span:
+    - body
+    - 2788
+    - 2788
+  label: 一緣起分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0696_X_001-mulu-10
+    span:
+    - body
+    - 5042
+    - 5042
+  label: 二方便分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0696_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 14602
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0696_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 12849
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0696_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 15114
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0696_X_004-mulu-1
+    span:
+    - body
+    - 6769
+    - 6769
+  label: 三發心分
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0696_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 11074
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0696_X_005-mulu-1
+    span:
+    - body
+    - 4066
+    - 4066
+  label: 四說圓通分
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0696_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 10210
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0696_X_006-mulu-1
+    span:
+    - body
+    - 6101
+    - 6101
+  label: 五修證分
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0696_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 12276
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0696_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 16864
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0696_X_008-mulu-1
+    span:
+    - body
+    - 9404
+    - 9404
+  label: 六助道分
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0696_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 10879
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0696_X_009-mulu-1
+    span:
+    - body
+    - 2962
+    - 2962
+  label: 七辨魔分
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0696_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 10038
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0696_X_010-mulu-1
+    span:
+    - body
+    - 7138
+    - 7138
+  label: 八結經分
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0696_X_010-mulu-2
+    span:
+    - body
+    - 9732
+    - 9732
+  label: No. 288-E 題楞嚴疏解後
+  type: mulu
+  level: 1
+hash: sha256:65b709a3c387b743526ba61f6b2130226c6e1f55cd897093af66c884758d3d69
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
